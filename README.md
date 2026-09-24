@@ -15,8 +15,8 @@ The source code in this repository covers hands-on examples and exercises for th
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>
+   https://github.com/TejasMestry14/databricks-14tejasm.git
+   cd databricks-14tejasm
    ```
 
 2. **Import into your Databricks workspace**
